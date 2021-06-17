@@ -2,13 +2,13 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height"180em"
+    <img height="180em"
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiring&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img heigth"180em"
+    <img heigth="180em"
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=oliveiring&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
