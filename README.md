@@ -1,4 +1,4 @@
-## Hi there! I'm michel oliveira 👋
+## Hi there! I'm michel oliveira 🤙
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
