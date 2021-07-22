@@ -6,10 +6,6 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiring&layout=compact"
     />
-     <img height="150em"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiring&layout=compact"
-    />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150em"
